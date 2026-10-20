@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leitor Uber</string>
+    <string name="service_desc">Lê os textos da tela do Uber Motorista para calcular ganho por km, ganho por hora, nota e endereços. Não clica em nada e não envia dados para fora do celular.</string>
+</resources>
